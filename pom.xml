@@ -78,6 +78,5 @@
 	<scm>
 		<connection>scm:git:git@github.com:trishab/hw2-trishab.git</connection>
 		<developerConnection>scm:git:git@github.com:trishab/hw2-trishab.git</developerConnection>
-		<url>https://github.com/trishab/hw2-trishab.git</url>
 	</scm>
 </project>
