@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f13.hw2</groupId>
 	<artifactId>hw2-trishab</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<repositories>
 		<repository>
 			<id>oaqa</id>
@@ -78,5 +78,6 @@
 	<scm>
 		<connection>scm:git:git@github.com:trishab/hw2-trishab.git</connection>
 		<developerConnection>scm:git:git@github.com:trishab/hw2-trishab.git</developerConnection>
+		<url>https://github.com/trishab/hw2-trishab.git</url>
 	</scm>
 </project>
